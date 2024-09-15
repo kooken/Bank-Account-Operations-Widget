@@ -10,9 +10,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Maestro 1596837868705199",
-    "to": "Счет 64686473678894779589"
+    "to": "IBAN 64686473678894779589"
   },
   {
     "id": 41428829,
@@ -25,9 +25,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "MasterCard 7158300734726758",
-    "to": "Счет 35383033474447895560"
+    "to": "IBAN 35383033474447895560"
   },
   {
     "id": 939719570,
@@ -40,9 +40,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 75106830613657916952",
-    "to": "Счет 11776614605963066702"
+    "description": "Business Money Transfer",
+    "from": "IBAN 75106830613657916952",
+    "to": "IBAN 11776614605963066702"
   },
   {
     "id": 587085106,
@@ -55,8 +55,8 @@
         "code": "RUB"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 41421565395219882431"
+    "description": "Open a deposit",
+    "to": "IBAN 41421565395219882431"
   },
   {
     "id": 142264268,
@@ -69,9 +69,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 19708645243227258542",
-    "to": "Счет 75651667383060284188"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 19708645243227258542",
+    "to": "IBAN 75651667383060284188"
   },
   {
     "id": 873106923,
@@ -84,9 +84,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 44812258784861134719",
-    "to": "Счет 74489636417521191160"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 44812258784861134719",
+    "to": "IBAN 74489636417521191160"
   },
   {
     "id": 214024827,
@@ -99,9 +99,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 10848359769870775355",
-    "to": "Счет 21969751544412966366"
+    "description": "Business Money Transfer",
+    "from": "IBAN 10848359769870775355",
+    "to": "IBAN 21969751544412966366"
   },
   {
     "id": 522357576,
@@ -114,9 +114,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 48894435694657014368",
-    "to": "Счет 38976430693692818358"
+    "description": "Business Money Transfer",
+    "from": "IBAN 48894435694657014368",
+    "to": "IBAN 38976430693692818358"
   },
   {
     "id": 895315941,
@@ -129,7 +129,7 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Visa Classic 6831982476737658",
     "to": "Visa Platinum 8990922113665229"
   },
@@ -144,8 +144,8 @@
         "code": "RUB"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 72082042523231456215"
+    "description": "Open a deposit",
+    "to": "IBAN 72082042523231456215"
   },
   {
     "id": 716496732,
@@ -158,9 +158,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Gold 5999414228426353",
-    "to": "Счет 72731966109147704472"
+    "to": "IBAN 72731966109147704472"
   },
   {
     "id": 863064926,
@@ -173,8 +173,8 @@
         "code": "USD"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 90424923579946435907"
+    "description": "Open a deposit",
+    "to": "IBAN 90424923579946435907"
   },
   {
     "id": 594226727,
@@ -187,9 +187,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Platinum 1246377376343588",
-    "to": "Счет 14211924144426031657"
+    "to": "IBAN 14211924144426031657"
   },
   {
     "id": 615064591,
@@ -202,9 +202,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Maestro 3928549031574026",
-    "to": "Счет 84163357546688983493"
+    "to": "IBAN 84163357546688983493"
   },
   {
     "id": 147815167,
@@ -217,9 +217,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Maestro 4598300720424501",
-    "to": "Счет 43597928997568165086"
+    "to": "IBAN 43597928997568165086"
   },
   {
     "id": 518707726,
@@ -232,7 +232,7 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "MasterCard 3152479541115065",
     "to": "Visa Gold 9447344650495960"
   },
@@ -247,9 +247,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 27248529432547658655",
-    "to": "Счет 97584898735659638967"
+    "description": "Business Money Transfer",
+    "from": "IBAN 27248529432547658655",
+    "to": "IBAN 97584898735659638967"
   },
   {
     "id": 782295999,
@@ -262,9 +262,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 24763316288121894080",
-    "to": "Счет 96291777776753236930"
+    "description": "Business Money Transfer",
+    "from": "IBAN 24763316288121894080",
+    "to": "IBAN 96291777776753236930"
   },
   {
     "id": 542678139,
@@ -277,9 +277,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Platinum 2256483756542539",
-    "to": "Счет 78808375133947439319"
+    "to": "IBAN 78808375133947439319"
   },
   {
     "id": 558167602,
@@ -292,9 +292,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 73654108430135874305",
-    "to": "Счет 89685546118890842412"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 73654108430135874305",
+    "to": "IBAN 89685546118890842412"
   },
   {
     "id": 407169720,
@@ -307,7 +307,7 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "MasterCard 4047671689373225",
     "to": "Maestro 3806652527413662"
   },
@@ -322,9 +322,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 96008924215040031147",
-    "to": "Счет 30377212495530283001"
+    "description": "Business Money Transfer",
+    "from": "IBAN 96008924215040031147",
+    "to": "IBAN 30377212495530283001"
   },
   {
     "id": 536723678,
@@ -337,9 +337,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Classic 4195191172583802",
-    "to": "Счет 17066032701791012883"
+    "to": "IBAN 17066032701791012883"
   },
   {
     "id": 172864002,
@@ -352,8 +352,8 @@
         "code": "USD"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 96231448929365202391"
+    "description": "Open a deposit",
+    "to": "IBAN 96231448929365202391"
   },
   {
     "id": 476991061,
@@ -366,7 +366,7 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Visa Gold 7305799447374042",
     "to": "Maestro 3364923093037194"
   },
@@ -381,9 +381,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Gold 3589276410671603",
-    "to": "Счет 96292138399386853355"
+    "to": "IBAN 96292138399386853355"
   },
   {
     "id": 988276204,
@@ -396,9 +396,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "MasterCard 4956649687637418",
-    "to": "Счет 90562872508279542248"
+    "to": "IBAN 90562872508279542248"
   },
   {
     "id": 888407131,
@@ -411,9 +411,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 35421428450077339637",
-    "to": "Счет 46723050671868944961"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 35421428450077339637",
+    "to": "IBAN 46723050671868944961"
   },
   {
     "id": 634356296,
@@ -426,9 +426,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 33407225454123927865",
-    "to": "Счет 79619011266276091215"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 33407225454123927865",
+    "to": "IBAN 79619011266276091215"
   },
   {
     "id": 34148726,
@@ -441,7 +441,7 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Visa Platinum 5355133159258236",
     "to": "Maestro 8045769817179061"
   },
@@ -456,9 +456,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Platinum 2241653116508487",
-    "to": "Счет 26494285169417058486"
+    "to": "IBAN 26494285169417058486"
   },
   {
     "id": 104807525,
@@ -471,9 +471,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
-    "from": "МИР 8201420097886664",
-    "to": "Счет 35116633516390079956"
+    "description": "Transfer Money From Card to Account",
+    "from": "UnionPay 8201420097886664",
+    "to": "IBAN 35116633516390079956"
   },
   {
     "id": 550607912,
@@ -486,9 +486,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "MasterCard 8532498887072395",
-    "to": "Счет 44238164562083919420"
+    "to": "IBAN 44238164562083919420"
   },
   {
     "id": 608117766,
@@ -501,9 +501,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Visa Gold 6527183396477720",
-    "to": "Счет 38573816654581789611"
+    "to": "IBAN 38573816654581789611"
   },
   {
     "id": 484201274,
@@ -516,9 +516,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на карту",
-    "from": "МИР 8193813157568899",
-    "to": "МИР 9425591958944146"
+    "description": "Transfer Money From Card to Card",
+    "from": "UnionPay 8193813157568899",
+    "to": "UnionPay 9425591958944146"
   },
   {
     "id": 547682597,
@@ -531,9 +531,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 77977573135347241529",
-    "to": "Счет 33062909508148771891"
+    "description": "Business Money Transfer",
+    "from": "IBAN 77977573135347241529",
+    "to": "IBAN 33062909508148771891"
   },
   {
     "id": 811920303,
@@ -546,9 +546,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 73222753239048295679",
-    "to": "Счет 78544755774551298747"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 73222753239048295679",
+    "to": "IBAN 78544755774551298747"
   },
   {
     "id": 509645757,
@@ -561,9 +561,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Visa Gold 7756673469642839",
-    "to": "Счет 48943806953649539453"
+    "to": "IBAN 48943806953649539453"
   },
   {
     "id": 801684332,
@@ -576,8 +576,8 @@
         "code": "RUB"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 77613226829885488381"
+    "description": "Open a deposit",
+    "to": "IBAN 77613226829885488381"
   },
   {
     "id": 122284694,
@@ -590,9 +590,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 99668626339273709694",
-    "to": "Счет 27219929444683698245"
+    "description": "Business Money Transfer",
+    "from": "IBAN 99668626339273709694",
+    "to": "IBAN 27219929444683698245"
   },
   {
     "id": 154927927,
@@ -605,9 +605,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Maestro 7810846596785568",
-    "to": "Счет 43241152692663622869"
+    "to": "IBAN 43241152692663622869"
   },
   {
     "id": 743628025,
@@ -620,9 +620,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 54883981902864782073",
-    "to": "Счет 61834060137088759145"
+    "description": "Business Money Transfer",
+    "from": "IBAN 54883981902864782073",
+    "to": "IBAN 61834060137088759145"
   },
   {
     "id": 743278119,
@@ -635,7 +635,7 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "MasterCard 1435442169918409",
     "to": "Maestro 7452400219469235"
   },
@@ -650,9 +650,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Classic 6216537926639975",
-    "to": "Счет 67667879435628279708"
+    "to": "IBAN 67667879435628279708"
   },
   {
     "id": 373912477,
@@ -665,9 +665,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Visa Classic 7022985698476865",
-    "to": "Счет 60979028617970883410"
+    "to": "IBAN 60979028617970883410"
   },
   {
     "id": 720751477,
@@ -680,9 +680,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 75743795418434298755",
-    "to": "Счет 80785963509390811744"
+    "description": "Business Money Transfer",
+    "from": "IBAN 75743795418434298755",
+    "to": "IBAN 80785963509390811744"
   },
   {
     "id": 949194534,
@@ -695,9 +695,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 65298957349197687907",
-    "to": "Счет 38784565940893479418"
+    "description": "Business Money Transfer",
+    "from": "IBAN 65298957349197687907",
+    "to": "IBAN 38784565940893479418"
   },
   {
     "id": 260972664,
@@ -710,7 +710,7 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Visa Classic 3414396880443483",
     "to": "Visa Gold 2684274847577419"
   },
@@ -725,7 +725,7 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Visa Classic 8906171742833215",
     "to": "Visa Platinum 6086997013848217"
   },
@@ -740,9 +740,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 86675623828180311969",
-    "to": "Счет 15351391408911677994"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 86675623828180311969",
+    "to": "IBAN 15351391408911677994"
   },
   {
     "id": 242885401,
@@ -755,9 +755,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 38427597486442637521",
-    "to": "Счет 83889757415570699323"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 38427597486442637521",
+    "to": "IBAN 83889757415570699323"
   },
   {
     "id": 286706711,
@@ -770,9 +770,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "MasterCard 9175985085449563",
-    "to": "Счет 82781399328834147668"
+    "to": "IBAN 82781399328834147668"
   },
   {
     "id": 108066781,
@@ -785,8 +785,8 @@
         "code": "RUB"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 90817634362091276762"
+    "description": "Open a deposit",
+    "to": "IBAN 90817634362091276762"
   },
   {
     "id": 100392079,
@@ -799,9 +799,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Visa Classic 6319351940209800",
-    "to": "Счет 14073196441261107791"
+    "to": "IBAN 14073196441261107791"
   },
   {
     "id": 51314762,
@@ -814,7 +814,7 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Visa Classic 4040551273087672",
     "to": "Visa Platinum 7825450883088021"
   },
@@ -829,9 +829,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Visa Gold 9657499677062945",
-    "to": "Счет 19213886662094884261"
+    "to": "IBAN 19213886662094884261"
   },
   {
     "id": 560813069,
@@ -844,7 +844,7 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "MasterCard 1796816785869527",
     "to": "Visa Classic 7699855375169288"
   },
@@ -859,9 +859,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 33721541831646393763",
-    "to": "Счет 68774571780974952778"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 33721541831646393763",
+    "to": "IBAN 68774571780974952778"
   },
   {
     "id": 360577236,
@@ -874,9 +874,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Maestro 4284341727554246",
-    "to": "МИР 1582474475547301"
+    "to": "UnionPay 1582474475547301"
   },
   {
     "id": 285353808,
@@ -889,8 +889,8 @@
         "code": "RUB"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 12189246980267075758"
+    "description": "Open a deposit",
+    "to": "IBAN 12189246980267075758"
   },
   {
     "id": 416017997,
@@ -903,8 +903,8 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
-    "from": "МИР 4878656375033856",
+    "description": "Transfer Money From Card to Card",
+    "from": "UnionPay 4878656375033856",
     "to": "Maestro 6890749237669619"
   },
   {
@@ -918,8 +918,8 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
-    "from": "МИР 8021883699486544",
+    "description": "Transfer Money From Card to Card",
+    "from": "UnionPay 8021883699486544",
     "to": "Visa Gold 8702717057933248"
   },
   {
@@ -933,9 +933,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 28429442875257789335",
-    "to": "Счет 95473010446151855633"
+    "description": "Business Money Transfer",
+    "from": "IBAN 28429442875257789335",
+    "to": "IBAN 95473010446151855633"
   },
   {
     "id": 636137913,
@@ -948,9 +948,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Visa Platinum 8990850370884895",
-    "to": "Счет 15574304810835774010"
+    "to": "IBAN 15574304810835774010"
   },
   {
     "id": 813238385,
@@ -963,9 +963,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "MasterCard 3595832182277400",
-    "to": "Счет 79697233246085035210"
+    "to": "IBAN 79697233246085035210"
   },
   {
     "id": 854048120,
@@ -978,9 +978,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Visa Classic 1203921041964079",
-    "to": "Счет 34616199494072692721"
+    "to": "IBAN 34616199494072692721"
   },
   {
     "id": 269462132,
@@ -993,9 +993,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 18125798580985711166",
-    "to": "Счет 98841213648056852372"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 18125798580985711166",
+    "to": "IBAN 98841213648056852372"
   },
   {
     "id": 692008409,
@@ -1008,9 +1008,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Classic 4610247282706784",
-    "to": "Счет 63229171188548882700"
+    "to": "IBAN 63229171188548882700"
   },
   {
     "id": 431131847,
@@ -1023,9 +1023,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "MasterCard 9454780748494532",
-    "to": "Счет 51958934737718181351"
+    "to": "IBAN 51958934737718181351"
   },
   {
     "id": 15948212,
@@ -1038,8 +1038,8 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
-    "from": "МИР 8665240839126074",
+    "description": "Transfer Money From Card to Card",
+    "from": "UnionPay 8665240839126074",
     "to": "Maestro 3000704277834087"
   },
   {
@@ -1053,9 +1053,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Classic 2842878893689012",
-    "to": "Счет 35158586384610753655"
+    "to": "IBAN 35158586384610753655"
   },
   {
     "id": 176798279,
@@ -1068,8 +1068,8 @@
         "code": "RUB"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 90417871337969064865"
+    "description": "Open a deposit",
+    "to": "IBAN 90417871337969064865"
   },
   {
     "id": 482520625,
@@ -1082,9 +1082,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 38611439522855669794",
-    "to": "Счет 46765464282437878125"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 38611439522855669794",
+    "to": "IBAN 46765464282437878125"
   },
   {
     "id": 414894334,
@@ -1097,9 +1097,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 59956820797131895975",
-    "to": "Счет 43475624104328495820"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 59956820797131895975",
+    "to": "IBAN 43475624104328495820"
   },
   {},
   {
@@ -1113,9 +1113,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Maestro 9171987821259925",
-    "to": "МИР 2052809263194182"
+    "to": "UnionPay 2052809263194182"
   },
   {
     "id": 596914981,
@@ -1128,9 +1128,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Platinum 1813166339376336",
-    "to": "Счет 97848259954268659635"
+    "to": "IBAN 97848259954268659635"
   },
   {
     "id": 200634844,
@@ -1143,9 +1143,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 33355011456314142963",
-    "to": "Счет 45735917297559088682"
+    "description": "Business Money Transfer",
+    "from": "IBAN 33355011456314142963",
+    "to": "IBAN 45735917297559088682"
   },
   {
     "id": 879660146,
@@ -1158,9 +1158,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 19628854383215954147",
-    "to": "Счет 90887717138446397473"
+    "description": "Business Money Transfer",
+    "from": "IBAN 19628854383215954147",
+    "to": "IBAN 90887717138446397473"
   },
   {
     "id": 893507143,
@@ -1173,8 +1173,8 @@
         "code": "RUB"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 37653295304860108767"
+    "description": "Open a deposit",
+    "to": "IBAN 37653295304860108767"
   },
   {
     "id": 710136990,
@@ -1187,9 +1187,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Maestro 1913883747791351",
-    "to": "Счет 11492155674319392427"
+    "to": "IBAN 11492155674319392427"
   },
   {
     "id": 390558607,
@@ -1202,9 +1202,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 72645194281643232984",
-    "to": "Счет 95782287258966264115"
+    "description": "Business Money Transfer",
+    "from": "IBAN 72645194281643232984",
+    "to": "IBAN 95782287258966264115"
   },
   {
     "id": 902831954,
@@ -1217,9 +1217,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Platinum 3530191547567121",
-    "to": "Счет 46878338893256147528"
+    "to": "IBAN 46878338893256147528"
   },
   {
     "id": 86608620,
@@ -1232,9 +1232,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "MasterCard 8826230888662405",
-    "to": "Счет 96119739109420349721"
+    "to": "IBAN 96119739109420349721"
   },
   {
     "id": 232222017,
@@ -1247,7 +1247,7 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Visa Classic 4062745111784804",
     "to": "Maestro 8602249654751155"
   },
@@ -1262,9 +1262,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 23177857685058835559",
-    "to": "Счет 56363465303962313778"
+    "description": "Business Money Transfer",
+    "from": "IBAN 23177857685058835559",
+    "to": "IBAN 56363465303962313778"
   },
   {
     "id": 185048835,
@@ -1277,9 +1277,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 27921306202254867520",
-    "to": "Счет 49884962711830774470"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 27921306202254867520",
+    "to": "IBAN 49884962711830774470"
   },
   {
     "id": 422035015,
@@ -1292,9 +1292,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "MasterCard 8847384717023026",
-    "to": "Счет 85458008326755993377"
+    "to": "IBAN 85458008326755993377"
   },
   {
     "id": 917824439,
@@ -1307,9 +1307,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Visa Platinum 6942697754917688",
-    "to": "МИР 2956603572573342"
+    "to": "UnionPay 2956603572573342"
   },
   {
     "id": 121646999,
@@ -1322,9 +1322,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Maestro 7552745726849311",
-    "to": "Счет 34799481846914116850"
+    "to": "IBAN 34799481846914116850"
   },
   {
     "id": 816266176,
@@ -1337,9 +1337,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "МИР 6381702861749111",
-    "to": "Счет 27804394774631586026"
+    "description": "Business Money Transfer",
+    "from": "UnionPay 6381702861749111",
+    "to": "IBAN 27804394774631586026"
   },
   {
     "id": 736942989,
@@ -1352,9 +1352,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
+    "description": "Business Money Transfer",
     "from": "Visa Gold 3654412434951162",
-    "to": "Счет 59986621134048778289"
+    "to": "IBAN 59986621134048778289"
   },
   {
     "id": 580054042,
@@ -1367,9 +1367,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на счет",
-    "from": "МИР 3766446452238784",
-    "to": "Счет 86655182730188443980"
+    "description": "Transfer Money From Card to Account",
+    "from": "UnionPay 3766446452238784",
+    "to": "IBAN 86655182730188443980"
   },
   {
     "id": 619287771,
@@ -1382,9 +1382,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 17691325653939384901",
-    "to": "Счет 49304996510329747621"
+    "description": "Business Money Transfer",
+    "from": "IBAN 17691325653939384901",
+    "to": "IBAN 49304996510329747621"
   },
   {
     "id": 490100847,
@@ -1397,7 +1397,7 @@
         "code": "USD"
       }
     },
-    "description": "Перевод с карты на карту",
+    "description": "Transfer Money From Card to Card",
     "from": "Visa Gold 8326537236216459",
     "to": "MasterCard 6783917276771847"
   },
@@ -1412,9 +1412,9 @@
         "code": "USD"
       }
     },
-    "description": "Перевод организации",
-    "from": "МИР 5211277418228469",
-    "to": "Счет 58518872592028002662"
+    "description": "Business Money Transfer",
+    "from": "UnionPay 5211277418228469",
+    "to": "IBAN 58518872592028002662"
   },
   {
     "id": 27192367,
@@ -1427,9 +1427,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 71687416928274675290",
-    "to": "Счет 87448526688763159781"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 71687416928274675290",
+    "to": "IBAN 87448526688763159781"
   },
   {
     "id": 921286598,
@@ -1442,9 +1442,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод организации",
-    "from": "Счет 26406253703545413262",
-    "to": "Счет 20735820461482021315"
+    "description": "Business Money Transfer",
+    "from": "IBAN 26406253703545413262",
+    "to": "IBAN 20735820461482021315"
   },
   {
     "id": 207126257,
@@ -1457,8 +1457,8 @@
         "code": "USD"
       }
     },
-    "description": "Открытие вклада",
-    "to": "Счет 35737585785074382265"
+    "description": "Open a deposit",
+    "to": "IBAN 35737585785074382265"
   },
   {
     "id": 957763565,
@@ -1471,9 +1471,9 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод со счета на счет",
-    "from": "Счет 46363668439560358409",
-    "to": "Счет 18889008294666828266"
+    "description": "Transfer Money Between Accounts",
+    "from": "IBAN 46363668439560358409",
+    "to": "IBAN 18889008294666828266"
   },
   {
     "id": 667307132,
@@ -1486,8 +1486,8 @@
         "code": "RUB"
       }
     },
-    "description": "Перевод с карты на счет",
+    "description": "Transfer Money From Card to Account",
     "from": "Maestro 1308795367077170",
-    "to": "Счет 96527012349577388612"
+    "to": "IBAN 96527012349577388612"
   }
 ]

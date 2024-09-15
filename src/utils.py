@@ -1,6 +1,5 @@
 import json
 from datetime import datetime
-from config import ROOT_DIR
 
 
 def load_operations(path):
@@ -32,11 +31,11 @@ def formatted_date(operation):
 
 def hidden_numbers(requisites: str):
     if requisites is None or not requisites.strip():
-        return "Нет данных"
+        return "No data"
     else:
         splitted_reqs = requisites.split()
         card_number = splitted_reqs[-1]
-        if requisites.lower().startswith("счет"):
+        if requisites.lower().startswith("IBAN"):
             hided_number = f"**{card_number[-4:]}"
         else:
             hided_number = f"{card_number[:4]} {card_number[4:6]}** **** {card_number[-4:]}"
